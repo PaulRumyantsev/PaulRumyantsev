@@ -61,7 +61,7 @@ Tools and Languages:
   
 ⚡ :mailbox: How to find me:<div id="badges">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Paul_Rumiantsev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-rumiantsev/)](https://www.linkedin.com/in/bogdan-karpov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Paul_Rumiantsev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-rumiantsev/)](https://www.linkedin.com/in/paul-rumiantsev/)
   [![Gmail Badge](https://img.shields.io/badge/-chrome8282@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkarpov86@gmail.com)](mailto:chrome8282@gmail.com)
  
  
