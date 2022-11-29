@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="200"/>
   </div>
 
-### Hi there ✌️ my name is [Pavlo Rumiantsev](https://www.linkedin.com/in/paul-rumiantsev/), I am a General (Manual and Automation) QA Engineer  <img src="https://media.giphy.com/media/TkDkMRnkxUAnOHI2HH/giphy.gif" width="55">
+### Hi there ✌️ my name is [Pavlo Rumiantsev](https://www.linkedin.com/in/paul-rumiantsev/), I am a Software and Hardware QA Engineer  <img src="https://media.giphy.com/media/TkDkMRnkxUAnOHI2HH/giphy.gif" width="55">
 
 ⚡ ⚙️ Strong experience with Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Scrum, Kanban, Waterfall and Scaled Agile Framework (SAFe).
 
